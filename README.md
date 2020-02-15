@@ -1,2 +1,4 @@
 # rguhack6
-A damn fine repository
+Just a wee repository
+
+Here's an update to the README
